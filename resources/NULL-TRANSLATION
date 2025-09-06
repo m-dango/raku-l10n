@@ -158,6 +158,7 @@ core-await             await
 core-backtrace backtrace
 core-bag       bag
 core-bail-out  bail-out
+core-base      base
 core-batch     batch
 core-bless     bless
 
