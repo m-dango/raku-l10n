@@ -337,7 +337,10 @@ https://docs.raku.org/type/atomicint#sub_atomic-dec-fetch
 - https://docs.raku.org/type/Bag
 
 #### core-bail-out
-https://docs.raku.org/type/Test#sub_bail-out
+- https://docs.raku.org/type/Test#sub_bail-out
+
+#### core-base
+- https://docs.raku.org/type/Real#method_base
 
 #### core-batch
 - https://docs.raku.org/routine/batch
